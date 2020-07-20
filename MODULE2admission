@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="author" content="Michael A. Bravo">
+    <meta name="description" content="Southern Methodist University Guildhall  Application">
+    <link rel="stylesheet" href="style.css">
+    <title>Letter to Rene' Archambault</title>
+  </head>
+  <body>
+    <div class="sender-column">
+      <p>
+        <strong>Rene' Archambault</strong><br>
+        SMU Guildhall faculty<br>
+        Southern Methodist University<br>
+        Plano, TX 75024<br>
+        USA<br>
+        <strong>Tel:</strong> <a href="tel:+1234567890">123-456-7890</a><br>
+        <strong>Email:</strong> <a href="mailto:no_reply@example.com">no_reply@example.com</a><br>
+      </p>
+      <p>
+        <time datetime="2016-01-20">20 January 2016</time>
+      </p>
+    </div>
+      <p>
+        <strong>Michael Bravo</strong><br>
+        123 N Student Ave.<br>
+        Tulsa,OK 74111<br>
+        USA
+      </p>
+      <h1>Re: Southern Methodist University  Guildhall application</h1>
+      <p>Dear Michael,</p>
+      <p>
+        Thank you for your recent application to join us at the SMU Guildhall to study as part of your <abbr title="Master of Interactive Technology">MIT</abbr>  next year. I will answer your questions one by one, in the following sections.
+      </p>
+      <h2>Enrollement dates</h2>
+        <p>We are happy to help you pursue your degree at SMU, the enrollment dates for each semester are as follows:</p>
+        <ul>
+          <li>First semester: <time datetime="2016-09-09">16 July 2020</time></li>
+          <li>Second semester: <time datetime="2017-01-15">9 November 2020</time></li>
+          <li>Third semester: <time datetime="2017-05-02">26 April 2021</time></li>
+        </ul>
+        <p>Please let me know which semerster you would like to enroll in.</p>
+        <p>You can find more information about <a href="http://example.com">important university dates</a> on our website.</p>
+      <h2>Specialized Learnings</h2>
+        <p>
+          <strong>Art, <em>learn to create art for games!</em></strong> As an artist at SMU Guildhall, you will learn to apply your natural artistic talent through the latest tools, engines, and software to create worlds, characters, and assets across the wide spectrum of 2D and 3D game art.
+        </p>
+        <dl>
+          <dt><strong>Design the player experience</strong></dt>
+          <dd>
+As a designer at SMU Guildhall, you will learn to bring art and code to life as you design the "fun". You're the jack of all trades that makes all things work in concert. Designers use scripting and art to create worlds, craft gameplay, and define player flow.           </dd>
+          <dt><strong>Learn to produce games</strong></dt>
+          <dd>
+Production students learn to make games as developers with cross-disciplinary teams in a studio simulation. In the studios, you build content, lead teams, mentor junior producers and leads, conduct usability studies, publish student games, and research team dynamics. Producers also study a secondary specialization (art, design or programming) in the first sequence of the program in order to develop foundational skills for making games.          </dd>
+          <dt><strong>Learn to code games</strong></dt>
+          <dd>
+Programmers at SMU Guildhall focus on writing code to breathe life into games by integrating the work of artists and designers, bringing characters and environments to life. You will practice each of the many facets of gameplay programming as well as the study of game engine architectures, both in commercial engines and your own game engine, which you’ll build from the ground up.          </dd>
+        </dl>
+        <p>For more information regarding admission, please use our  <a href="http://example.com">Admission FAQ</a> page.</p>
+
+        <h2>Subjects of study</h2>
+          <p>SMU Guildhall merges solid academic curriculum with practical, real-world preparation. We equip the next generation of game creators with the technical skills and instincts required to drive the evolution of gaming. Students may learn the skills and knowledge of subjects below:</p>
+          <ol>
+            <li>Turning H<sub>2</sub>O into carbonic acid, and the health benefits of mineral water (H<sub>2</sub>CO,<sub>3</sub>.)</li>
+            <li>Measuring the effect on computer units once they reach temperatures above 60°C (8140°F), when the cycles per second increases (effect of 8 × 10<sup>1.5</sup> &gt; 8 × 10<sup>2</sup>.)</li>
+            <li><abbr title="Hypertext Markup Language">HTML</abbr> and <abbr title="Cascading Style Sheets">CSS</abbr> constructs for creating websites.</li>
+          </ol>
+          <p>So please be sure to read ethrough the syllabus of each course to get a better view of the subjects. Thank you.
+          </p>
+
+        <p>
+          Yours sincerely,<br>
+          Rene' Archambault
+        </p>
+        <p>Southern Methodist University Guildhall motto: <q>You will know the truth, and the truth will set you free.</q> -- <cite>Bible, John 8:32 </cite>
+        </p>
+  </body>
+</html>
